@@ -1,0 +1,10 @@
+.taskHeader {
+  /* Sample */
+  background: rgb(34,193,195);
+background: radial-gradient(circle, rgba(34,193,195,1) 32%, rgba(253,187,45,1) 81%);
+width:35%;
+text-align: center;
+margin: auto;
+color: antiquewhite;
+border-radius:10px ;
+}
